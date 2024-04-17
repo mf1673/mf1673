@@ -10,7 +10,6 @@
   <img width='33x' style="padding-right:10px;" src="https://skillicons.dev/icons?i=gmail" /> 
 </a>
 <img width='33px' style="padding-right:10px;" src="https://skillicons.dev/icons?i=discord" />
-
 <a href="ID:054417265b4d9696fcccd4d0bae386b875c42b834b267ce7a1358bca32cde8bf69">
   <img src="https://img.shields.io/badge/-Session-333131?logo=Session&logoColor=green&style=for-the-badge"/>
 </a>
