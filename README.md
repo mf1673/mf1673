@@ -28,6 +28,9 @@
 <div>
 
 ### 💻 O.perating S.ystems:
+
+<img src="https://img.shields.io/badge/-Proxmox-ffffff?logo=Proxmox&logoColor=orange&style=for-the-badge"/>
+
 <div>
   <img width='35x' style="padding-right:10px;" src="https://skillicons.dev/icons?i=arch" />
   <img width='35x' style="padding-right:10px;" src="https://skillicons.dev/icons?i=bsd" />
@@ -37,7 +40,6 @@
   <img width='35x' style="padding-right:10px;" src="https://skillicons.dev/icons?i=kali" />
 <div>
 
-<img src="https://img.shields.io/badge/-Proxmox-ffffff?logo=Proxmox&logoColor=orange&style=for-the-badge"/>
 
 
 ### 🧰 Tools & Languages 📑:
