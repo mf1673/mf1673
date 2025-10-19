@@ -1,8 +1,6 @@
 <div align=center href=https://git.io/typing-svg>
-  
-  #
    <img src = "https://readme-typing-svg.demolab.com?font=Courier&pause=1000&color=14F005&random=false&width=500&height=70&lines=Wake+up+mf+...;The+Github+has+you!;Follow+the+black+Octocat.">
-
+  
   #
   <img src="https://github-readme-stats.vercel.app/api?username=mf1673&show_icons=true&theme=dark&hide_border=true">
 </div>
@@ -10,13 +8,13 @@
 ### 📫 <i> Social & Contacts</i>  :
 <div align=center>
   <a href="https://github.com/mf1673">
-    <img width='42' src="https://img.shields.io/badge/-%23121011.svg?logo=github&logoColor=white">&nbsp&nbsp
+    <img width='42' src="https://img.shields.io/badge/-%23121011.svg?logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/michele._.fazio/">
-    <img width='33x' style="padding-right:10px;" src="https://skillicons.dev/icons?i=instagram" />
+    <img width='33x' style="padding-right:10px;" src="https://skillicons.dev/icons?i=instagram"/>
   </a>
   <a href="https://www.reddit.com/user/mf1673/">
-    <img width='42' src="https://img.shields.io/badge/-FF4500?logo=reddit&logoColor=white"> &nbsp&nbsp
+    <img width='42' src="https://img.shields.io/badge/-FF4500?logo=reddit&logoColor=white"> 
   </a>
   <a href="https://x.com/mf1673/">
     <img width='43'  src="https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white">
